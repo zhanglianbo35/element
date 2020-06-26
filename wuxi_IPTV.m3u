@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="无锡都市资讯"  tvg-logo="http://epg.guojitv.com/upfile/9c7b09b2-7852-44bf-b1c9-236a83b1313d.jpg"
+#EXTINF:-1 tvg-id="1" tvg-name="无锡都市资讯" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.guojitv.com/upfile/9c7b09b2-7852-44bf-b1c9-236a83b1313d.jpg"
 http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
-#EXTINF:-1 tvg-name="无锡经济" tvg-logo="http://epg.guojitv.com/upfile/2a2fa5d8-604b-49b0-b09e-4e5d0ae94a3a.jpg"
+#EXTINF:-1 tvg-id="1" tvg-name="无锡经济" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.guojitv.com/upfile/2a2fa5d8-604b-49b0-b09e-4e5d0ae94a3a.jpg"
 http://live-wx.wifiwx.com/wxtv5/sd/live.m3u8
-#EXTINF:-1 tvg-name="无锡生活" tvg-logo="http://epg.guojitv.com/upfile/1b5336f9-706c-4e6a-b193-59d15ee9548d.jpg"
+#EXTINF:-1 tvg-id="1" tvg-name="无锡生活" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.guojitv.com/upfile/1b5336f9-706c-4e6a-b193-59d15ee9548d.jpg"
 http://live-wx.wifiwx.com/wxtv4/sd/live.m3u8
-#EXTINF:-1 tvg-name="无锡新闻综合" tvg-logo="http://epg.guojitv.com/upfile/db23b032-ce38-4c28-9d7f-99e0fa53354e.jpg"
+#EXTINF:-1 tvg-id="1" tvg-name="无锡新闻综合" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.guojitv.com/upfile/db23b032-ce38-4c28-9d7f-99e0fa53354e.jpg"
 http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
-#EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="http://epg.guojitv.com/upfile/2ed1c2a1-a1e3-4cc8-b564-d1c7bec490b6.jpg"
+#EXTINF:-1 tvg-id="1" tvg-name="无锡娱乐" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.guojitv.com/upfile/2ed1c2a1-a1e3-4cc8-b564-d1c7bec490b6.jpg"
 http://live-wx.wifiwx.com/wxtv2/sd/live.m3u8
