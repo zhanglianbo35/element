@@ -9,3 +9,11 @@ http://live-wx.wifiwx.com/wxtv4/sd/live.m3u8
 http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="无锡娱乐" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.guojitv.com/upfile/2ed1c2a1-a1e3-4cc8-b564-d1c7bec490b6.jpg",无锡娱乐频道
 http://live-wx.wifiwx.com/wxtv2/sd/live.m3u8
+#EXTINF:-1 tvg-id="1",CBN每日影院
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cbnmryy
+#EXTINF:-1 tvg-id="1",CBN风尚生活
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cbnfssh
+#EXTINF:-1 tvg-id="1",CBN幸福剧场
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cbnxfjc
+#EXTINF:-1 tvg-id="1",CBN幸福娱乐
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cbnxfyl
